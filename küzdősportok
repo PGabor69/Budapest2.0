@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ökölvívás Világa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: yellow;
+        }
+
+        header {
+            background-color: #ac1717;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Ökölvívás Világa</h1>
+    </header>
+
+    <section>
+        
+        <div>
+            <h2>Ökölvívás</h2>
+            <p>A szorító
+
+                A mérkőzéseket szorítóban rendezik. A szorító négyzet alakú, amelyet négy, megfelelően a talajhoz rögzített oszlopon kifeszített kötélsor határol. A kötélsorok által határolt terület 4,90×4,90 m-nél
+                 kisebb, illetve 6,10×6,10 m-nél nagyobb nem lehet. A szorító talaját nemezlappal és arra helyezett ponyvával kell borítani.
+                
+                <h2>A kesztyű</h2>
+                
+                ökölvívó kesztyűk
+                A kesztyűk tömege 228 grammnál (8 uncia) könnyebb nem lehet. Mindkét kézre bandázst kell tekerni, mely nem lehet rövidebb 2,5 méternél és nem lehet hosszabb 4,5 méternél, szélessége az 5,7 cm-t 
+                nem haladhatja meg. Ütni csakis a kesztyű elülső, párnázott részével szabad. Ez az ún. ütőfelület.
+                
+                
+                <h2>Ruházat</h2>
+                 A versenyzőknek könnyű magas szárú cipőt (szögek és sarok nélkül), zoknit, combközépig érő nadrágot és trikót – mely fedi a mellkast és a hátat – kell viselniük. A trikón rajta lehet
+                 országnevük felirata és címere, amelyek nem foglalhatnak el 100 cm²–nél nagyobb felületet. Amennyiben a nadrág és a trikó megegyező színű, az öv vonalát 10 cm széles rugalmas öv viselésével
+                 kell jól láthatóvá tenni. (Az övvonal a köldök és a csípő felső része közötti képzeletbeli vonal.)
+                
+                <h2>Kötelező védőfelszerelések</h2>
+                
+                <li>Fejvédő. A versenyzők jelenleg csak fejvédőben léphetnek a szorítóba, azonban a pekingi olimpia után megszűnik a fejvédő használata. A fejvédő egyénileg formára alakított és a versenyzők felszerelésének részt képezi. A szorító sarka színétől függően piros vagy kék színű legyen.</li>
+                <li>Fogvédő. A versenyzőknek fogvédő viselése kötelező. A fogvédő legyen formára alakított és versenyen nem tartalmazhatja a piros szín árnyalatait. Ha valamelyik versenyzőnek nincs sajátja, annak a rendező ország házigazdái kötelesek térítés ellenében rendelkezésére bocsátani, melyet  versenyző vagy szövetsége fizet. A küzdelem alatt tilos a fogvédő szándékos eltávolítása, amennyiben a versenyző mégis ezt teszi, következménye intés vagy kizárás. Ha egy versenyző fogvédőjét kiütötték, a vezetőbíró küldje őt a színének megfelelő sarokba és a fogvédő tisztítása, illetve visszahelyezése után állítsa vissza a versenyzőt a megelőző pozícióba.</li>
+                <li>Mélyütés védő.</li>
+            </p>
+        </div>
+        <div>
+            <h2>Híres Ökölvívók</h2>
+            <h3>Mike Tyson</h3>
+            <img src="tyson.jpg" alt="Híres ökölvívó 1">
+            <p>Michael Gerard „Iron Mike” Tyson majd 2020-ban ismét visszatért amerikai nehézsúlyú ökölvívó. Ő volt a legfiatalabb nehézsúlyú bokszoló, aki világbajnoki címet nyert. Becenevei: „Iron Mike”, „Kid Dynamite”, „The Baddest Man on the Planet”. Wikipédia
+                Született: 1966. június 30. (életkor 57 év), Fort Greene, New York, Egyesült Államok
+                Házastárs: Lakiha Spicer (házas. 2009.), Monica Turner (házas. 1997.–2003.), Robin Givens (házas. 1988.–1989.)
+                Gyermekek: Miguel Leon Tyson, Mikey Lorna Tyson, Amir Tyson, Exodus Tyson, Ramsey Tyson
+                Szülők: Jimmy Kirkpatrick, Lorna Smith
+                Magasság: 1,78 m
+                Súly: 100 kg</p>
+        </div>
+        <div>
+            <h3>Papp László</h3>
+            
+            <img src="b_papp-laszlo.jpg" alt="Híres ökölvívó 2">
+            
+            <p>
+                
+                    <strong>Papp László</strong>, háromszoros olimpiai bajnok magyar ökölvívó, edző, sportvezető. Wikipédia
+                    <strong>Született:</strong> 1926. március 25., Budapest
+                    <strong>Meghalt:</strong> 2003. október 16., Budapest
+                    <strong>Gyermekek:<strong> Papp László
+                    <strong>Állampolgárság:</strong> Magyar
+                    <strong>Szülők:</strong> Erzsébet Burkus, Imre Papp
+                    <strong>Magasság:</strong> 1,65 m
+                
+            </p>
+
+        </div>
+        <div>
+            <h3>Kovács "Kokó" István</h3>
+            
+            <img src="KOKO.jpg" alt="Híres ökölvívó 2">
+            
+            <p>
+                Kovács István, ismert becenevén Kokó olimpiai, világ- és Európa-bajnok magyar ökölvívó. Wikipédia
+                Született: 1970. augusztus 17. (életkor 53 év), Budapest
+                Házastárs: Serfőző Krisztina
+                Oktatás: Magyar Testnevelési és Sporttudományi Egyetem (2020.), IBS International Business School - Budapest (2005.)
+                Gyermekek: Kovács Bence, Kovács Gergő
+                Súlycsoport: Pehelysúly, Légsúly
+                Magasság: 1,7 m
+                
+            </p>
+
+        </div>
+
+        
+
+        <!-- További ökölvívók hozzáadása -->
+
+    </section>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
